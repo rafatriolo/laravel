@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="836ff652-2c8e-43f8-b712-9ebe5e77f713" name="Netfrix" url="http://netfrix.net">
+        <fileTransfer host="netfrix.net" port="21" password="dfd8dfcbdf99df9adf9cdf9edf9adf9a" username="netfri5">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
